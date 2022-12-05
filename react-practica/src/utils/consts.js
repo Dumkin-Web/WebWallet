@@ -1,0 +1,6 @@
+export const REGISTRATION_ROUTE = "/reg"
+export const AUTH_ROUTE = "/auth"
+export const MAINPAGE_ROUTE = "/"
+export const HUB_ROUTE = "/hub"
+export const TRANSACTION_ROUTE = "/transaction"
+export const HISTORY_ROUTE = "/history"
